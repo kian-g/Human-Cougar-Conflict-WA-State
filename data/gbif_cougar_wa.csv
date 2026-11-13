@@ -1,0 +1,482 @@
+gbifID,decimalLongitude,decimalLatitude,year,month,basisOfRecord,coordinateUncertaintyInMeters,datasetName,institutionCode
+6130014469,-117.281014,48.204046,2026.0,1.0,HUMAN_OBSERVATION,8.0,iNaturalist research-grade observations,iNaturalist
+6130050321,-122.577439,46.770454,2026.0,1.0,HUMAN_OBSERVATION,27275.0,iNaturalist research-grade observations,iNaturalist
+6131544355,-122.770749,46.604938,2026.0,1.0,HUMAN_OBSERVATION,34908.0,iNaturalist research-grade observations,iNaturalist
+6133084667,-122.737842,46.72899,2026.0,1.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6147179730,-122.775862,46.613227,2026.0,1.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6147209642,-122.583663,46.677601,2026.0,1.0,HUMAN_OBSERVATION,32661.0,iNaturalist research-grade observations,iNaturalist
+6147400769,-122.744204,46.648752,2026.0,1.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6185381438,-122.257948,48.893357,2026.0,1.0,HUMAN_OBSERVATION,26614.0,iNaturalist research-grade observations,iNaturalist
+6451937101,-122.035574,47.616268,2026.0,1.0,HUMAN_OBSERVATION,7021.0,iNaturalist research-grade observations,iNaturalist
+6159158561,-122.785511,46.77218,2026.0,2.0,HUMAN_OBSERVATION,27860.0,iNaturalist research-grade observations,iNaturalist
+6159169177,-122.797451,46.674032,2026.0,2.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6159316493,-122.743333,46.610786,2026.0,2.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6159319781,-122.787586,46.770799,2026.0,2.0,HUMAN_OBSERVATION,27004.0,iNaturalist research-grade observations,iNaturalist
+6159387509,-122.707052,46.717789,2026.0,2.0,HUMAN_OBSERVATION,27792.0,iNaturalist research-grade observations,iNaturalist
+6159630386,-122.707643,46.725425,2026.0,2.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6171167211,-122.760786,46.798674,2026.0,2.0,HUMAN_OBSERVATION,27263.0,iNaturalist research-grade observations,iNaturalist
+6171416723,-122.769085,46.692878,2026.0,2.0,HUMAN_OBSERVATION,27699.0,iNaturalist research-grade observations,iNaturalist
+6178369933,-123.281064,48.049282,2026.0,2.0,HUMAN_OBSERVATION,42.0,iNaturalist research-grade observations,iNaturalist
+6178596173,-122.76599,46.731924,2026.0,2.0,HUMAN_OBSERVATION,30974.0,iNaturalist research-grade observations,iNaturalist
+6179087206,-117.282734,48.20047,2026.0,2.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+6179194826,-117.282851,48.200717,2026.0,2.0,HUMAN_OBSERVATION,15.0,iNaturalist research-grade observations,iNaturalist
+6274187110,-123.447862,48.498296,2026.0,2.0,HUMAN_OBSERVATION,1769.0,iNaturalist research-grade observations,iNaturalist
+6178415687,-122.752801,46.637805,2026.0,3.0,HUMAN_OBSERVATION,28966.0,iNaturalist research-grade observations,iNaturalist
+6178540059,-122.728724,46.682092,2026.0,3.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6178582579,-122.798131,46.708313,2026.0,3.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6185627109,-123.435296,48.231098,2026.0,3.0,HUMAN_OBSERVATION,26711.0,iNaturalist research-grade observations,iNaturalist
+6187960529,-123.710131,48.095903,2026.0,3.0,HUMAN_OBSERVATION,14.0,iNaturalist research-grade observations,iNaturalist
+6188152292,-123.711989,48.097422,2026.0,3.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+6188590715,-121.470757,48.503007,2026.0,3.0,HUMAN_OBSERVATION,8.0,iNaturalist research-grade observations,iNaturalist
+6195268587,-124.012878,47.620545,2026.0,3.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+6195944764,-124.012794,47.6205,2026.0,3.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+6187949266,-123.049816,47.343543,2026.0,4.0,HUMAN_OBSERVATION,26871.0,iNaturalist research-grade observations,iNaturalist
+6188358943,-123.19359,47.325124,2026.0,4.0,HUMAN_OBSERVATION,26871.0,iNaturalist research-grade observations,iNaturalist
+6188380580,-123.178968,47.26351,2026.0,4.0,HUMAN_OBSERVATION,26871.0,iNaturalist research-grade observations,iNaturalist
+6195628880,-120.563338,47.297992,2026.0,4.0,HUMAN_OBSERVATION,14.0,iNaturalist research-grade observations,iNaturalist
+6234306442,-117.104872,48.425804,2026.0,4.0,HUMAN_OBSERVATION,26679.0,iNaturalist research-grade observations,iNaturalist
+6273616305,-117.284914,48.850318,2026.0,4.0,HUMAN_OBSERVATION,26614.0,iNaturalist research-grade observations,iNaturalist
+6399156904,-122.796938,46.722213,2026.0,4.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6400014144,-122.672803,46.759468,2026.0,4.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6400409523,-122.441106,46.687419,2026.0,4.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6400678368,-122.615716,46.760824,2026.0,4.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6469603084,-122.650904,46.737314,2026.0,4.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6273804735,-122.798286,48.022547,2026.0,5.0,HUMAN_OBSERVATION,194.0,iNaturalist research-grade observations,iNaturalist
+6320179866,-123.737005,48.392701,2026.0,5.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+6320594393,-119.942878,47.146,2026.0,5.0,HUMAN_OBSERVATION,5.0,iNaturalist research-grade observations,iNaturalist
+6320867409,-123.737019,48.392694,2026.0,5.0,HUMAN_OBSERVATION,30.0,iNaturalist research-grade observations,iNaturalist
+6321157872,-120.237533,48.604826,2026.0,5.0,HUMAN_OBSERVATION,113.0,iNaturalist research-grade observations,iNaturalist
+6334433724,-120.006358,48.611428,2026.0,5.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+6334672638,-123.213373,47.85492,2026.0,5.0,HUMAN_OBSERVATION,44.0,iNaturalist research-grade observations,iNaturalist
+6334909869,-117.693594,48.486311,2026.0,5.0,HUMAN_OBSERVATION,12.0,iNaturalist research-grade observations,iNaturalist
+6353106610,-124.347733,48.524803,2026.0,5.0,HUMAN_OBSERVATION,3.0,iNaturalist research-grade observations,iNaturalist
+6398871771,-122.767825,46.611457,2026.0,5.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6399087441,-122.578152,46.67871,2026.0,5.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6400070175,-123.532988,48.669278,2026.0,5.0,HUMAN_OBSERVATION,11.0,iNaturalist research-grade observations,iNaturalist
+6400299616,-123.52883,48.80135,2026.0,5.0,HUMAN_OBSERVATION,6.0,iNaturalist research-grade observations,iNaturalist
+6442014758,-122.793811,48.109847,2026.0,5.0,HUMAN_OBSERVATION,26743.0,iNaturalist research-grade observations,iNaturalist
+6480405798,-121.747403,48.607772,2026.0,5.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+6400146409,-123.758213,45.84437,2026.0,6.0,HUMAN_OBSERVATION,216.0,iNaturalist research-grade observations,iNaturalist
+6400493557,-123.841667,45.860725,2026.0,6.0,HUMAN_OBSERVATION,12211.0,iNaturalist research-grade observations,iNaturalist
+6422065395,-120.859263,47.171355,2026.0,6.0,HUMAN_OBSERVATION,2918.0,iNaturalist research-grade observations,iNaturalist
+6422137504,-124.482187,47.800405,2026.0,6.0,HUMAN_OBSERVATION,7.0,iNaturalist research-grade observations,iNaturalist
+6423109347,-120.917959,47.357843,2026.0,6.0,HUMAN_OBSERVATION,26871.0,iNaturalist research-grade observations,iNaturalist
+6441707820,-123.881897,48.003269,2026.0,6.0,HUMAN_OBSERVATION,5.0,iNaturalist research-grade observations,iNaturalist
+6518626549,-121.951903,48.065247,2026.0,6.0,HUMAN_OBSERVATION,217.0,iNaturalist research-grade observations,iNaturalist
+6431072775,-120.695817,47.838787,2026.0,7.0,HUMAN_OBSERVATION,5.0,iNaturalist research-grade observations,iNaturalist
+6441065557,-123.278532,48.048278,2026.0,7.0,HUMAN_OBSERVATION,36.0,iNaturalist research-grade observations,iNaturalist
+6480690789,-122.845104,47.509773,2026.0,7.0,HUMAN_OBSERVATION,26839.0,iNaturalist research-grade observations,iNaturalist
+6480772201,-120.916205,47.419517,2026.0,8.0,HUMAN_OBSERVATION,12.0,iNaturalist research-grade observations,iNaturalist
+6499299868,-122.188824,48.707334,2026.0,8.0,HUMAN_OBSERVATION,8.0,iNaturalist research-grade observations,iNaturalist
+6518440001,-122.128122,48.641937,2026.0,8.0,HUMAN_OBSERVATION,26646.0,iNaturalist research-grade observations,iNaturalist
+6520628995,-122.203544,48.718488,2026.0,8.0,HUMAN_OBSERVATION,1746.0,iNaturalist research-grade observations,iNaturalist
+6869648131,-120.243263,48.46277,2026.0,10.0,HUMAN_OBSERVATION,13.0,iNaturalist research-grade observations,iNaturalist
+6871309801,-123.664033,47.570795,2026.0,10.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+5063559607,-123.496644,48.477155,2025.0,1.0,HUMAN_OBSERVATION,2235.0,iNaturalist research-grade observations,iNaturalist
+5063781281,-117.282068,48.201622,2025.0,1.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+5063804858,-123.578622,48.441903,2025.0,2.0,HUMAN_OBSERVATION,5.0,iNaturalist research-grade observations,iNaturalist
+5063879262,-122.811514,48.014989,2025.0,2.0,HUMAN_OBSERVATION,5.0,iNaturalist research-grade observations,iNaturalist
+5064012366,-122.375822,48.734942,2025.0,2.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+5064014194,-119.6921,48.691203,2025.0,2.0,HUMAN_OBSERVATION,14.0,iNaturalist research-grade observations,iNaturalist
+5064022604,-122.238018,48.720945,2025.0,2.0,HUMAN_OBSERVATION,26646.0,iNaturalist research-grade observations,iNaturalist
+5069888881,-123.106461,47.086742,2025.0,2.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+5133345752,-123.449642,48.491469,2025.0,2.0,HUMAN_OBSERVATION,78.0,iNaturalist research-grade observations,iNaturalist
+5133716021,-121.853675,47.681145,2025.0,2.0,HUMAN_OBSERVATION,1.0,iNaturalist research-grade observations,iNaturalist
+5167835044,-123.6501,48.662608,2025.0,2.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+5828028856,-122.560992,46.747529,2025.0,2.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+5828033639,-122.627765,46.764814,2025.0,2.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+5087851444,-121.569947,47.513717,2025.0,3.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+5104435204,-122.991249,45.572853,2025.0,3.0,HUMAN_OBSERVATION,1026.0,iNaturalist research-grade observations,iNaturalist
+5108330112,-123.277674,48.048909,2025.0,3.0,HUMAN_OBSERVATION,39.0,iNaturalist research-grade observations,iNaturalist
+5216033268,-123.806719,46.78573,2025.0,4.0,HUMAN_OBSERVATION,20.0,iNaturalist research-grade observations,iNaturalist
+6130962869,-124.011339,48.107716,2025.0,4.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+5166865734,-123.545602,45.693307,2025.0,5.0,HUMAN_OBSERVATION,27126.0,iNaturalist research-grade observations,iNaturalist
+5168214642,-122.861308,47.838584,2025.0,5.0,HUMAN_OBSERVATION,106.0,iNaturalist research-grade observations,iNaturalist
+5889727615,-123.30205,48.003463,2025.0,5.0,HUMAN_OBSERVATION,61.0,iNaturalist research-grade observations,iNaturalist
+6130437408,-123.277759,48.041478,2025.0,5.0,HUMAN_OBSERVATION,71.0,iNaturalist research-grade observations,iNaturalist
+5188392885,-121.888727,47.567322,2025.0,6.0,HUMAN_OBSERVATION,2248.0,iNaturalist research-grade observations,iNaturalist
+5198451558,-123.127639,47.963831,2025.0,6.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+5216342948,-120.85337,47.28735,2025.0,6.0,HUMAN_OBSERVATION,22.0,iNaturalist research-grade observations,iNaturalist
+5216620587,-123.404951,47.309331,2025.0,6.0,HUMAN_OBSERVATION,26871.0,iNaturalist research-grade observations,iNaturalist
+5230970727,-117.291429,48.860624,2025.0,6.0,HUMAN_OBSERVATION,8.0,iNaturalist research-grade observations,iNaturalist
+5760254419,-123.152877,47.242159,2025.0,6.0,HUMAN_OBSERVATION,26871.0,iNaturalist research-grade observations,iNaturalist
+6235096453,-120.816232,46.911103,2025.0,6.0,HUMAN_OBSERVATION,8.0,iNaturalist research-grade observations,iNaturalist
+5237474814,-117.877375,48.378033,2025.0,7.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+5282475526,-121.976354,47.813733,2025.0,7.0,HUMAN_OBSERVATION,2365.0,iNaturalist research-grade observations,iNaturalist
+5759981442,-117.398582,48.101682,2025.0,7.0,HUMAN_OBSERVATION,737.0,iNaturalist research-grade observations,iNaturalist
+5760108378,-117.398582,48.101682,2025.0,7.0,HUMAN_OBSERVATION,737.0,iNaturalist research-grade observations,iNaturalist
+5760302164,-117.398582,48.101682,2025.0,7.0,HUMAN_OBSERVATION,737.0,iNaturalist research-grade observations,iNaturalist
+5760341238,-117.398582,48.101682,2025.0,7.0,HUMAN_OBSERVATION,737.0,iNaturalist research-grade observations,iNaturalist
+5282428708,-123.590758,48.517463,2025.0,8.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+5282547212,-123.581055,48.516505,2025.0,8.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+5291998964,-121.353792,46.971745,2025.0,8.0,HUMAN_OBSERVATION,9.0,iNaturalist research-grade observations,iNaturalist
+5292919087,-123.274584,48.056769,2025.0,8.0,HUMAN_OBSERVATION,39.0,iNaturalist research-grade observations,iNaturalist
+5760543516,-123.7986,48.110958,2025.0,8.0,HUMAN_OBSERVATION,79704.0,iNaturalist research-grade observations,iNaturalist
+5837698152,-124.230942,48.851605,2025.0,8.0,HUMAN_OBSERVATION,33.0,iNaturalist research-grade observations,iNaturalist
+6147411015,-123.27733,48.049569,2025.0,8.0,HUMAN_OBSERVATION,33.0,iNaturalist research-grade observations,iNaturalist
+5827385676,-124.246286,47.951531,2025.0,9.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+5837731916,-122.327597,46.843872,2025.0,9.0,HUMAN_OBSERVATION,1131.0,iNaturalist research-grade observations,iNaturalist
+5840426521,-117.282338,48.200938,2025.0,9.0,HUMAN_OBSERVATION,122.0,iNaturalist research-grade observations,iNaturalist
+5844350420,-122.15358,48.723858,2025.0,10.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+5867812614,-121.774679,47.799336,2025.0,10.0,HUMAN_OBSERVATION,26807.0,iNaturalist research-grade observations,iNaturalist
+5868238735,-122.820691,47.830921,2025.0,10.0,HUMAN_OBSERVATION,26775.0,iNaturalist research-grade observations,iNaturalist
+5890321629,-122.091156,47.532617,2025.0,10.0,HUMAN_OBSERVATION,7.0,iNaturalist research-grade observations,iNaturalist
+5938589878,-120.210664,48.978218,2025.0,10.0,HUMAN_OBSERVATION,2563.0,iNaturalist research-grade observations,iNaturalist
+6129919507,-121.79393,47.508908,2025.0,10.0,HUMAN_OBSERVATION,2.0,iNaturalist research-grade observations,iNaturalist
+6869273057,-122.076738,47.719686,2025.0,10.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+5892366060,-121.613433,47.549112,2025.0,11.0,HUMAN_OBSERVATION,9.0,iNaturalist research-grade observations,iNaturalist
+5892726016,-122.926831,47.470667,2025.0,11.0,HUMAN_OBSERVATION,26839.0,iNaturalist research-grade observations,iNaturalist
+5892785343,-122.81945,47.402082,2025.0,11.0,HUMAN_OBSERVATION,26839.0,iNaturalist research-grade observations,iNaturalist
+5897667184,-123.053667,47.861118,2025.0,11.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+5908915366,-117.280954,48.204747,2025.0,11.0,HUMAN_OBSERVATION,8.0,iNaturalist research-grade observations,iNaturalist
+5909261333,-121.175737,46.957408,2025.0,11.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+6352820815,-121.733678,48.326847,2025.0,11.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+6352856653,-121.731989,48.328208,2025.0,11.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+5932643035,-120.253137,48.439297,2025.0,12.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+5932661705,-117.280666,48.201731,2025.0,12.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+5935294860,-122.662056,46.652052,2025.0,12.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+5935412279,-122.634485,46.78523,2025.0,12.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+5935652374,-122.69966,46.760916,2025.0,12.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6130272896,-117.286117,48.857665,2025.0,12.0,HUMAN_OBSERVATION,122.0,iNaturalist research-grade observations,iNaturalist
+6170890951,-122.04851,47.562833,2025.0,12.0,HUMAN_OBSERVATION,15.0,iNaturalist research-grade observations,iNaturalist
+6234420005,-123.281052,48.104537,2025.0,12.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+4510409299,-122.026477,48.167524,2024.0,1.0,HUMAN_OBSERVATION,1590.0,iNaturalist research-grade observations,iNaturalist
+4512355589,-123.833776,49.028465,2024.0,1.0,HUMAN_OBSERVATION,2298.0,iNaturalist research-grade observations,iNaturalist
+4512385473,-119.69285,48.692443,2024.0,1.0,HUMAN_OBSERVATION,24.0,iNaturalist research-grade observations,iNaturalist
+4512418648,-123.833626,49.028512,2024.0,1.0,HUMAN_OBSERVATION,1808.0,iNaturalist research-grade observations,iNaturalist
+4516512605,-122.132378,46.78003,2024.0,1.0,HUMAN_OBSERVATION,58568.0,iNaturalist research-grade observations,iNaturalist
+4516520284,-121.801758,47.733533,2024.0,1.0,HUMAN_OBSERVATION,26807.0,iNaturalist research-grade observations,iNaturalist
+4516746122,-119.692375,48.692405,2024.0,1.0,HUMAN_OBSERVATION,3.0,iNaturalist research-grade observations,iNaturalist
+4516777833,-117.281768,48.200907,2024.0,1.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+4528040615,-123.589566,48.013233,2024.0,1.0,HUMAN_OBSERVATION,94.0,iNaturalist research-grade observations,iNaturalist
+4525161024,-122.041367,48.924769,2024.0,2.0,HUMAN_OBSERVATION,23.0,iNaturalist research-grade observations,iNaturalist
+4535804135,-124.02289,47.821458,2024.0,2.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+4535905782,-122.163544,48.827522,2024.0,2.0,HUMAN_OBSERVATION,3.0,iNaturalist research-grade observations,iNaturalist
+5153411539,-122.48704,45.737895,2024.0,2.0,HUMAN_OBSERVATION,5179.0,iNaturalist research-grade observations,iNaturalist
+4597092460,-123.294551,47.969474,2024.0,3.0,HUMAN_OBSERVATION,26775.0,iNaturalist research-grade observations,iNaturalist
+4597276042,-122.196787,48.708633,2024.0,3.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+4597386145,-123.388085,48.094646,2024.0,3.0,HUMAN_OBSERVATION,244.0,iNaturalist research-grade observations,iNaturalist
+4597565083,-122.667452,48.02555,2024.0,3.0,HUMAN_OBSERVATION,1093.0,iNaturalist research-grade observations,iNaturalist
+4599848553,-121.544126,48.427377,2024.0,3.0,HUMAN_OBSERVATION,26679.0,iNaturalist research-grade observations,iNaturalist
+4599911373,-122.06034,48.896142,2024.0,3.0,HUMAN_OBSERVATION,26614.0,iNaturalist research-grade observations,iNaturalist
+4607205310,-117.26187,46.428478,2024.0,4.0,HUMAN_OBSERVATION,26999.0,iNaturalist research-grade observations,iNaturalist
+4847127675,-122.074463,48.773348,2024.0,4.0,HUMAN_OBSERVATION,25.0,iNaturalist research-grade observations,iNaturalist
+4853078773,-122.21599,48.825672,2024.0,4.0,HUMAN_OBSERVATION,2273.0,iNaturalist research-grade observations,iNaturalist
+4855191471,-117.29283,48.859235,2024.0,4.0,HUMAN_OBSERVATION,8.0,iNaturalist research-grade observations,iNaturalist
+4872194494,-118.979467,48.216708,2024.0,5.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+4872514358,-118.979597,48.216806,2024.0,5.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+4945664257,-122.861916,47.838632,2024.0,5.0,HUMAN_OBSERVATION,45.0,iNaturalist research-grade observations,iNaturalist
+4901670075,-122.147022,48.853871,2024.0,6.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+4903985148,-118.091045,48.637178,2024.0,6.0,HUMAN_OBSERVATION,26646.0,iNaturalist research-grade observations,iNaturalist
+4904222241,-123.07763,46.935567,2024.0,6.0,HUMAN_OBSERVATION,770.0,iNaturalist research-grade observations,iNaturalist
+4908182610,-122.70772,47.925493,2024.0,6.0,HUMAN_OBSERVATION,9012.0,iNaturalist research-grade observations,iNaturalist
+4908222241,-122.007055,48.967063,2024.0,6.0,HUMAN_OBSERVATION,26614.0,iNaturalist research-grade observations,iNaturalist
+4935889203,-120.397057,48.545019,2024.0,6.0,HUMAN_OBSERVATION,26679.0,iNaturalist research-grade observations,iNaturalist
+5281886853,-120.29837,48.092453,2024.0,6.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+6234249408,-122.203726,48.568235,2024.0,6.0,HUMAN_OBSERVATION,166.0,iNaturalist research-grade observations,iNaturalist
+4908324481,-121.352678,46.967618,2024.0,7.0,HUMAN_OBSERVATION,10.0,iNaturalist research-grade observations,iNaturalist
+4908458874,-119.070655,48.73823,2024.0,7.0,HUMAN_OBSERVATION,47.0,iNaturalist research-grade observations,iNaturalist
+4952253999,-123.201591,47.253784,2024.0,7.0,HUMAN_OBSERVATION,4089.0,iNaturalist research-grade observations,iNaturalist
+5087677406,-124.397963,49.051808,2024.0,7.0,HUMAN_OBSERVATION,26582.0,iNaturalist research-grade observations,iNaturalist
+4926034056,-123.280938,48.039282,2024.0,8.0,HUMAN_OBSERVATION,22504.0,iNaturalist research-grade observations,iNaturalist
+4936299141,-122.042128,47.938861,2024.0,8.0,HUMAN_OBSERVATION,74.0,iNaturalist research-grade observations,iNaturalist
+4950137822,-123.355675,47.235348,2024.0,9.0,HUMAN_OBSERVATION,26871.0,iNaturalist research-grade observations,iNaturalist
+4953001670,-119.24485,49.023528,2024.0,9.0,HUMAN_OBSERVATION,5.0,iNaturalist research-grade observations,iNaturalist
+4982092631,-120.396682,47.142278,2024.0,9.0,HUMAN_OBSERVATION,26903.0,iNaturalist research-grade observations,iNaturalist
+4952626889,-123.259412,47.279881,2024.0,10.0,HUMAN_OBSERVATION,26871.0,iNaturalist research-grade observations,iNaturalist
+4976508476,-123.817353,48.147881,2024.0,10.0,HUMAN_OBSERVATION,3.0,iNaturalist research-grade observations,iNaturalist
+4982306006,-122.034753,48.925438,2024.0,11.0,HUMAN_OBSERVATION,6.0,iNaturalist research-grade observations,iNaturalist
+4987503310,-117.432621,47.727414,2024.0,11.0,HUMAN_OBSERVATION,31250.0,iNaturalist research-grade observations,iNaturalist
+4994049521,-122.09014,48.908772,2024.0,12.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+5006977583,-116.983367,47.519067,2024.0,12.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+5007394951,-117.281115,48.203926,2024.0,12.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+5008306402,-122.094177,48.857995,2024.0,12.0,HUMAN_OBSERVATION,26614.0,iNaturalist research-grade observations,iNaturalist
+5008308663,-123.054362,48.050691,2024.0,12.0,HUMAN_OBSERVATION,8.0,iNaturalist research-grade observations,iNaturalist
+5087200813,-121.438979,45.613009,2024.0,12.0,HUMAN_OBSERVATION,27126.0,iNaturalist research-grade observations,iNaturalist
+5935625778,-122.235297,48.690511,2024.0,12.0,HUMAN_OBSERVATION,26646.0,iNaturalist research-grade observations,iNaturalist
+4021986745,-123.100455,46.96022,2023.0,1.0,HUMAN_OBSERVATION,7758.0,iNaturalist research-grade observations,iNaturalist
+4022324981,-117.279454,48.205342,2023.0,1.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+4028956883,-117.426198,45.957951,2023.0,1.0,HUMAN_OBSERVATION,27095.0,iNaturalist research-grade observations,iNaturalist
+4028973013,-122.347992,48.753116,2023.0,1.0,HUMAN_OBSERVATION,9.0,iNaturalist research-grade observations,iNaturalist
+5838118618,-122.612631,46.668072,2023.0,1.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+4046229798,-117.284132,48.20135,2023.0,2.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+5837843599,-122.777626,46.731504,2023.0,2.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6188188878,-122.533639,47.850621,2023.0,2.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+4055032671,-117.282173,48.202793,2023.0,3.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+4067362892,-117.270575,48.785627,2023.0,3.0,HUMAN_OBSERVATION,244.0,iNaturalist research-grade observations,iNaturalist
+4080696473,-117.280237,48.20302,2023.0,3.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+4465357770,-123.093452,47.73114,2023.0,3.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+5838185784,-122.64715,46.609345,2023.0,3.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+4076384476,-123.678991,48.395942,2023.0,4.0,HUMAN_OBSERVATION,103.0,iNaturalist research-grade observations,iNaturalist
+4111972966,-118.197373,48.297044,2023.0,4.0,HUMAN_OBSERVATION,12351.0,iNaturalist research-grade observations,iNaturalist
+5828301920,-122.627027,46.673831,2023.0,4.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+4112217145,-123.886387,48.382188,2023.0,5.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+4120920958,-124.395175,48.56573,2023.0,5.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+4138033650,-123.158479,45.567523,2023.0,5.0,HUMAN_OBSERVATION,27158.0,iNaturalist research-grade observations,iNaturalist
+4171412293,-123.555029,48.521317,2023.0,5.0,HUMAN_OBSERVATION,26679.0,iNaturalist research-grade observations,iNaturalist
+4130041605,-117.290675,48.860577,2023.0,6.0,HUMAN_OBSERVATION,15.0,iNaturalist research-grade observations,iNaturalist
+4130262474,-123.362932,48.559493,2023.0,6.0,HUMAN_OBSERVATION,26679.0,iNaturalist research-grade observations,iNaturalist
+4162184151,-122.088345,47.764053,2023.0,6.0,HUMAN_OBSERVATION,243.0,iNaturalist research-grade observations,iNaturalist
+4153736398,-120.787029,46.761858,2023.0,7.0,HUMAN_OBSERVATION,2060.0,iNaturalist research-grade observations,iNaturalist
+4162543591,-123.96612,45.886355,2023.0,7.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+4162572523,-117.280527,48.204382,2023.0,7.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+4165476074,-117.283295,48.201076,2023.0,7.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+4165593145,-124.238385,48.857954,2023.0,7.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+4172034032,-117.150466,48.765519,2023.0,7.0,HUMAN_OBSERVATION,15.0,iNaturalist research-grade observations,iNaturalist
+4465683599,-122.03919,48.956667,2023.0,7.0,HUMAN_OBSERVATION,1113.0,iNaturalist research-grade observations,iNaturalist
+4400408691,-121.93251,47.758928,2023.0,8.0,HUMAN_OBSERVATION,57.0,iNaturalist research-grade observations,iNaturalist
+4405421832,-121.468323,45.500536,2023.0,8.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+4416734875,-118.197373,48.297044,2023.0,9.0,HUMAN_OBSERVATION,12351.0,iNaturalist research-grade observations,iNaturalist
+6470212837,-123.631931,48.350302,2023.0,9.0,HUMAN_OBSERVATION,25.0,iNaturalist research-grade observations,iNaturalist
+4424542252,-122.154932,48.840534,2023.0,10.0,HUMAN_OBSERVATION,8.0,iNaturalist research-grade observations,iNaturalist
+4436334762,-117.283176,48.200877,2023.0,10.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+4438958533,-123.812055,48.962396,2023.0,11.0,HUMAN_OBSERVATION,674.0,iNaturalist research-grade observations,iNaturalist
+4440688421,-123.816379,48.963986,2023.0,11.0,HUMAN_OBSERVATION,569.0,iNaturalist research-grade observations,iNaturalist
+4440693487,-123.816379,48.963986,2023.0,11.0,HUMAN_OBSERVATION,569.0,iNaturalist research-grade observations,iNaturalist
+4440932389,-123.816379,48.963986,2023.0,11.0,HUMAN_OBSERVATION,569.0,iNaturalist research-grade observations,iNaturalist
+4442376267,-123.816379,48.963986,2023.0,11.0,HUMAN_OBSERVATION,569.0,iNaturalist research-grade observations,iNaturalist
+4453861130,-117.279504,48.857086,2023.0,11.0,HUMAN_OBSERVATION,122.0,iNaturalist research-grade observations,iNaturalist
+4453884269,-117.27928,48.860924,2023.0,11.0,HUMAN_OBSERVATION,488.0,iNaturalist research-grade observations,iNaturalist
+4528232418,-123.563866,48.347982,2023.0,11.0,HUMAN_OBSERVATION,538.0,iNaturalist research-grade observations,iNaturalist
+4500821947,-119.03104,48.962621,2023.0,12.0,HUMAN_OBSERVATION,1616.0,iNaturalist research-grade observations,iNaturalist
+4500829921,-117.773211,48.456114,2023.0,12.0,HUMAN_OBSERVATION,26679.0,iNaturalist research-grade observations,iNaturalist
+4506305924,-117.170206,47.727175,2023.0,12.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+4506341691,-117.278959,48.203529,2023.0,12.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+4506467930,-123.421912,48.038248,2023.0,12.0,HUMAN_OBSERVATION,11252.0,iNaturalist research-grade observations,iNaturalist
+4507677779,-123.389204,48.079931,2023.0,12.0,HUMAN_OBSERVATION,90013.0,iNaturalist research-grade observations,iNaturalist
+4507897600,-117.28042,48.203569,2023.0,12.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+4528052115,-121.831512,47.719025,2023.0,12.0,HUMAN_OBSERVATION,3.0,iNaturalist research-grade observations,iNaturalist
+3873441538,-120.101614,46.977207,2022.0,2.0,HUMAN_OBSERVATION,26935.0,iNaturalist research-grade observations,iNaturalist
+3712661805,-122.120317,46.466237,2022.0,3.0,HUMAN_OBSERVATION,9.0,iNaturalist research-grade observations,iNaturalist
+3747010900,-120.004797,46.97584,2022.0,3.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+3760072736,-117.263408,48.784827,2022.0,4.0,HUMAN_OBSERVATION,61.0,iNaturalist research-grade observations,iNaturalist
+3858204235,-117.288904,48.857963,2022.0,5.0,HUMAN_OBSERVATION,122.0,iNaturalist research-grade observations,iNaturalist
+3858462875,-122.672085,48.018653,2022.0,5.0,HUMAN_OBSERVATION,80.0,iNaturalist research-grade observations,iNaturalist
+3859228277,-117.290044,48.859038,2022.0,5.0,HUMAN_OBSERVATION,122.0,iNaturalist research-grade observations,iNaturalist
+4075746641,-123.614572,48.426796,2022.0,5.0,HUMAN_OBSERVATION,6.0,iNaturalist research-grade observations,iNaturalist
+3963301463,-123.182121,46.051391,2022.0,6.0,HUMAN_OBSERVATION,8.0,iNaturalist research-grade observations,iNaturalist
+3881742331,-122.189029,48.714706,2022.0,7.0,HUMAN_OBSERVATION,779.0,iNaturalist research-grade observations,iNaturalist
+3881846312,-122.182813,48.708036,2022.0,7.0,HUMAN_OBSERVATION,244.0,iNaturalist research-grade observations,iNaturalist
+3902502510,-118.27952,45.702292,2022.0,7.0,HUMAN_OBSERVATION,27126.0,iNaturalist research-grade observations,iNaturalist
+5908786021,-123.526407,48.521257,2022.0,7.0,HUMAN_OBSERVATION,340.0,iNaturalist research-grade observations,iNaturalist
+6147585628,-122.182345,48.707633,2022.0,7.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+3985745719,-124.530952,48.8153,2022.0,8.0,HUMAN_OBSERVATION,26614.0,iNaturalist research-grade observations,iNaturalist
+3912073029,-117.279456,48.203352,2022.0,9.0,HUMAN_OBSERVATION,2.0,iNaturalist research-grade observations,iNaturalist
+3925218425,-123.054303,48.050698,2022.0,10.0,HUMAN_OBSERVATION,10.0,iNaturalist research-grade observations,iNaturalist
+3961203641,-121.748262,48.905875,2022.0,10.0,HUMAN_OBSERVATION,3.0,iNaturalist research-grade observations,iNaturalist
+4011552540,-120.095422,48.019572,2022.0,10.0,HUMAN_OBSERVATION,5.0,iNaturalist research-grade observations,iNaturalist
+4137630880,-121.698708,47.507128,2022.0,10.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+4436185399,-119.94462,48.661962,2022.0,10.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+3966525007,-123.951302,48.924641,2022.0,11.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+3966634915,-122.129527,47.067241,2022.0,11.0,HUMAN_OBSERVATION,68245.0,iNaturalist research-grade observations,iNaturalist
+3966718176,-117.279441,48.20328,2022.0,11.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+3985799068,-123.94879,48.993243,2022.0,11.0,HUMAN_OBSERVATION,1829.0,iNaturalist research-grade observations,iNaturalist
+3985908435,-117.294447,48.861624,2022.0,11.0,HUMAN_OBSERVATION,122.0,iNaturalist research-grade observations,iNaturalist
+4015031430,-117.275897,48.854964,2022.0,11.0,HUMAN_OBSERVATION,7813.0,iNaturalist research-grade observations,iNaturalist
+4092996688,-120.72422,47.76813,2022.0,11.0,PRESERVED_SPECIMEN,,,PSM
+4006728836,-120.309181,47.461914,2022.0,12.0,HUMAN_OBSERVATION,67.0,iNaturalist research-grade observations,iNaturalist
+4009866647,-120.308098,47.461887,2022.0,12.0,HUMAN_OBSERVATION,38.0,iNaturalist research-grade observations,iNaturalist
+4015163439,-117.266988,48.803924,2022.0,12.0,HUMAN_OBSERVATION,244.0,iNaturalist research-grade observations,iNaturalist
+3032131452,-123.054359,48.050715,2021.0,1.0,HUMAN_OBSERVATION,9.0,iNaturalist research-grade observations,iNaturalist
+3044615290,-123.586106,48.418003,2021.0,2.0,HUMAN_OBSERVATION,10.0,iNaturalist research-grade observations,iNaturalist
+3457020399,-121.451197,46.758168,2021.0,2.0,HUMAN_OBSERVATION,1486.0,iNaturalist research-grade observations,iNaturalist
+5838097723,-122.744256,46.622309,2021.0,2.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+3097170515,-121.4665,47.096778,2021.0,3.0,HUMAN_OBSERVATION,64.0,iNaturalist research-grade observations,iNaturalist
+3301825513,-122.189524,48.707468,2021.0,3.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+3090914709,-122.01925,46.129798,2021.0,4.0,HUMAN_OBSERVATION,781.0,iNaturalist research-grade observations,iNaturalist
+3109035192,-121.593468,48.072314,2021.0,4.0,HUMAN_OBSERVATION,1953.0,iNaturalist research-grade observations,iNaturalist
+3321082434,-123.474153,47.882613,2021.0,4.0,HUMAN_OBSERVATION,5.0,iNaturalist research-grade observations,iNaturalist
+3986188413,-122.190268,48.708318,2021.0,4.0,HUMAN_OBSERVATION,60.0,iNaturalist research-grade observations,iNaturalist
+3499606151,-117.288472,48.864086,2021.0,5.0,HUMAN_OBSERVATION,244.0,iNaturalist research-grade observations,iNaturalist
+3499615186,-117.283291,48.203919,2021.0,5.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+4022292471,-119.520199,49.053744,2021.0,5.0,HUMAN_OBSERVATION,211.0,iNaturalist research-grade observations,iNaturalist
+3408200621,-122.205255,45.620775,2021.0,8.0,HUMAN_OBSERVATION,41.0,iNaturalist research-grade observations,iNaturalist
+3383991733,-121.926884,47.258853,2021.0,9.0,HUMAN_OBSERVATION,181.0,iNaturalist research-grade observations,iNaturalist
+3385191528,-123.530228,48.784088,2021.0,9.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+3860489198,-123.55513,45.70755,2021.0,9.0,HUMAN_OBSERVATION,10.0,iNaturalist research-grade observations,iNaturalist
+3398907952,-122.265433,46.867199,2021.0,10.0,HUMAN_OBSERVATION,4537.0,iNaturalist research-grade observations,iNaturalist
+3398991412,-122.335099,45.599575,2021.0,10.0,HUMAN_OBSERVATION,171.0,iNaturalist research-grade observations,iNaturalist
+4606867766,-120.382818,45.950944,2021.0,10.0,HUMAN_OBSERVATION,122.0,iNaturalist research-grade observations,iNaturalist
+6195547712,-121.593238,48.66741,2021.0,10.0,HUMAN_OBSERVATION,1004.0,iNaturalist research-grade observations,iNaturalist
+3415604315,-124.117713,49.094182,2021.0,11.0,HUMAN_OBSERVATION,273.0,iNaturalist research-grade observations,iNaturalist
+3415746415,-122.266502,46.867373,2021.0,11.0,HUMAN_OBSERVATION,2361.0,iNaturalist research-grade observations,iNaturalist
+3705444533,-117.281734,48.20329,2021.0,12.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+6130790274,-120.595994,47.004203,2021.0,12.0,HUMAN_OBSERVATION,43.0,iNaturalist research-grade observations,iNaturalist
+2557785287,-120.596649,45.906822,2020.0,1.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+2557786269,-120.599953,45.904709,2020.0,1.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+3499542712,-117.261219,48.790025,2020.0,1.0,HUMAN_OBSERVATION,244.0,iNaturalist research-grade observations,iNaturalist
+3499546666,-117.255452,48.835603,2020.0,1.0,HUMAN_OBSERVATION,7813.0,iNaturalist research-grade observations,iNaturalist
+4607287834,-120.379557,45.950461,2020.0,1.0,HUMAN_OBSERVATION,61.0,iNaturalist research-grade observations,iNaturalist
+5839931999,-122.654276,46.731872,2020.0,1.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+2573958716,-123.848541,47.86552,2020.0,2.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+2596348866,-117.299158,47.913469,2020.0,3.0,HUMAN_OBSERVATION,5185.0,iNaturalist research-grade observations,iNaturalist
+3499526100,-117.288791,48.868448,2020.0,3.0,HUMAN_OBSERVATION,244.0,iNaturalist research-grade observations,iNaturalist
+5839863733,-122.60249,46.716152,2020.0,3.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+6179540783,-122.745205,46.601136,2020.0,3.0,HUMAN_OBSERVATION,27527.0,iNaturalist research-grade observations,iNaturalist
+2597724239,-123.094121,47.944932,2020.0,4.0,HUMAN_OBSERVATION,38121.0,iNaturalist research-grade observations,iNaturalist
+2818778407,-120.901394,47.258251,2020.0,4.0,HUMAN_OBSERVATION,10.0,iNaturalist research-grade observations,iNaturalist
+2813962477,-117.758231,48.464539,2020.0,6.0,HUMAN_OBSERVATION,2405.0,iNaturalist research-grade observations,iNaturalist
+2814185037,-118.104185,48.381358,2020.0,6.0,HUMAN_OBSERVATION,26711.0,iNaturalist research-grade observations,iNaturalist
+2850557787,-118.128626,45.535099,2020.0,6.0,HUMAN_OBSERVATION,276.0,iNaturalist research-grade observations,iNaturalist
+2823111888,-117.969981,48.023646,2020.0,7.0,HUMAN_OBSERVATION,26743.0,iNaturalist research-grade observations,iNaturalist
+2823189671,-117.856712,48.084903,2020.0,7.0,HUMAN_OBSERVATION,331.0,iNaturalist research-grade observations,iNaturalist
+2823216419,-117.535538,48.370175,2020.0,7.0,HUMAN_OBSERVATION,10.0,iNaturalist research-grade observations,iNaturalist
+2823346214,-117.88413,48.126426,2020.0,7.0,HUMAN_OBSERVATION,26743.0,iNaturalist research-grade observations,iNaturalist
+2823381384,-117.769988,48.281059,2020.0,7.0,HUMAN_OBSERVATION,26711.0,iNaturalist research-grade observations,iNaturalist
+2988279541,-117.565412,48.014921,2020.0,7.0,HUMAN_OBSERVATION,26743.0,iNaturalist research-grade observations,iNaturalist
+2856706527,-122.214361,48.766474,2020.0,8.0,HUMAN_OBSERVATION,4.0,iNaturalist research-grade observations,iNaturalist
+2868352843,-122.205622,48.780387,2020.0,9.0,HUMAN_OBSERVATION,128.0,iNaturalist research-grade observations,iNaturalist
+2901543110,-123.258325,45.576192,2020.0,10.0,HUMAN_OBSERVATION,10.0,iNaturalist research-grade observations,iNaturalist
+2988464723,-122.188569,48.73687,2020.0,10.0,HUMAN_OBSERVATION,26766.0,iNaturalist research-grade observations,iNaturalist
+3860319189,-123.48528,45.74888,2020.0,10.0,HUMAN_OBSERVATION,10.0,iNaturalist research-grade observations,iNaturalist
+3058764670,-117.312492,46.254313,2020.0,11.0,HUMAN_OBSERVATION,11.0,iNaturalist research-grade observations,iNaturalist
+3013921075,-123.884767,48.984897,2020.0,12.0,HUMAN_OBSERVATION,26614.0,iNaturalist research-grade observations,iNaturalist
+3013982920,-123.985909,48.902214,2020.0,12.0,HUMAN_OBSERVATION,26614.0,iNaturalist research-grade observations,iNaturalist
+3743005526,-117.280983,48.20326,2020.0,12.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+3743012548,-117.279979,48.203392,2020.0,12.0,HUMAN_OBSERVATION,61.0,iNaturalist research-grade observations,iNaturalist
+2012954503,-122.980387,47.083345,2019.0,2.0,HUMAN_OBSERVATION,65.0,iNaturalist research-grade observations,iNaturalist
+3499472904,-117.261707,48.791603,2019.0,2.0,HUMAN_OBSERVATION,244.0,iNaturalist research-grade observations,iNaturalist
+2028444063,-123.392432,48.536043,2019.0,3.0,HUMAN_OBSERVATION,193.0,iNaturalist research-grade observations,iNaturalist
+3457099550,-123.421897,47.020411,2019.0,4.0,HUMAN_OBSERVATION,5.0,iNaturalist research-grade observations,iNaturalist
+3499459072,-117.256179,48.800599,2019.0,4.0,HUMAN_OBSERVATION,1953.0,iNaturalist research-grade observations,iNaturalist
+3698107259,-117.250416,48.826413,2019.0,4.0,HUMAN_OBSERVATION,7813.0,iNaturalist research-grade observations,iNaturalist
+2242966458,-124.238444,47.880164,2019.0,5.0,HUMAN_OBSERVATION,3906.0,iNaturalist research-grade observations,iNaturalist
+2273205537,-124.244548,47.882084,2019.0,5.0,HUMAN_OBSERVATION,3906.0,iNaturalist research-grade observations,iNaturalist
+2823208532,-118.102244,45.649975,2019.0,6.0,HUMAN_OBSERVATION,365.0,iNaturalist research-grade observations,iNaturalist
+3499522048,-117.261556,48.791823,2019.0,7.0,HUMAN_OBSERVATION,244.0,iNaturalist research-grade observations,iNaturalist
+2529270935,-123.912812,48.823126,2019.0,8.0,HUMAN_OBSERVATION,26614.0,iNaturalist research-grade observations,iNaturalist
+2423123627,-121.795221,47.540532,2019.0,9.0,HUMAN_OBSERVATION,26839.0,iNaturalist research-grade observations,iNaturalist
+2574116943,-122.416973,48.79779,2019.0,9.0,HUMAN_OBSERVATION,244.0,iNaturalist research-grade observations,iNaturalist
+2448005373,-117.541139,46.205668,2019.0,10.0,HUMAN_OBSERVATION,33657.0,iNaturalist research-grade observations,iNaturalist
+2574182812,-120.2644,48.435145,2019.0,11.0,HUMAN_OBSERVATION,242.0,iNaturalist research-grade observations,iNaturalist
+2529264854,-122.677769,48.034638,2019.0,12.0,HUMAN_OBSERVATION,31.0,iNaturalist research-grade observations,iNaturalist
+3039330112,-120.874704,47.202629,2019.0,12.0,HUMAN_OBSERVATION,3057.0,iNaturalist research-grade observations,iNaturalist
+5840028814,-122.667181,46.60368,2019.0,12.0,HUMAN_OBSERVATION,26967.0,iNaturalist research-grade observations,iNaturalist
+2563647490,-118.09082,47.768428,2018.0,1.0,HUMAN_OBSERVATION,26807.0,iNaturalist research-grade observations,iNaturalist
+5838199309,-122.381311,46.239996,2018.0,1.0,HUMAN_OBSERVATION,27031.0,iNaturalist research-grade observations,iNaturalist
+1831233713,-122.680935,48.033963,2018.0,2.0,HUMAN_OBSERVATION,8.0,iNaturalist research-grade observations,iNaturalist
+1837749886,-122.697367,48.039172,2018.0,3.0,HUMAN_OBSERVATION,8.0,iNaturalist research-grade observations,iNaturalist
+1848805798,-122.684574,48.051558,2018.0,3.0,HUMAN_OBSERVATION,652.0,iNaturalist research-grade observations,iNaturalist
+1880459217,-120.749078,47.295303,2018.0,4.0,HUMAN_OBSERVATION,5.0,iNaturalist research-grade observations,iNaturalist
+1848798093,-122.68435,48.051808,2018.0,6.0,HUMAN_OBSERVATION,10.0,iNaturalist research-grade observations,iNaturalist
+2850596922,-118.010039,46.066268,2018.0,6.0,HUMAN_OBSERVATION,488.0,iNaturalist research-grade observations,iNaturalist
+3014032704,-120.089881,48.017086,2018.0,9.0,HUMAN_OBSERVATION,10.0,iNaturalist research-grade observations,iNaturalist
+1933581678,-120.261747,47.694019,2018.0,10.0,HUMAN_OBSERVATION,1460.0,iNaturalist research-grade observations,iNaturalist
+3070503552,-121.624808,47.500122,2018.0,10.0,HUMAN_OBSERVATION,48.0,iNaturalist research-grade observations,iNaturalist
+5189238724,-120.540327,47.499202,2018.0,10.0,PRESERVED_SPECIMEN,1876.0,,UWBM
+3712534924,-117.264065,48.790249,2018.0,12.0,HUMAN_OBSERVATION,244.0,iNaturalist research-grade observations,iNaturalist
+3698060910,-120.846304,48.391174,2017.0,3.0,HUMAN_OBSERVATION,22.0,iNaturalist research-grade observations,iNaturalist
+3873709305,-120.8517,48.408427,2017.0,3.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+1500322263,-122.713749,48.08262,2017.0,4.0,HUMAN_OBSERVATION,355.0,iNaturalist research-grade observations,iNaturalist
+1500329151,-121.401758,49.043729,2017.0,4.0,HUMAN_OBSERVATION,88.0,iNaturalist research-grade observations,iNaturalist
+3499600442,-117.502694,48.922439,2017.0,10.0,HUMAN_OBSERVATION,10.0,iNaturalist research-grade observations,iNaturalist
+5838268833,-122.342597,46.385581,2016.0,1.0,HUMAN_OBSERVATION,27031.0,iNaturalist research-grade observations,iNaturalist
+1270051294,-121.740833,48.643481,2016.0,5.0,HUMAN_OBSERVATION,20.0,iNaturalist research-grade observations,iNaturalist
+1562876372,-121.683072,48.636409,2016.0,5.0,HUMAN_OBSERVATION,21.0,iNaturalist research-grade observations,iNaturalist
+2331969870,-121.758318,48.579443,2016.0,5.0,HUMAN_OBSERVATION,8.0,iNaturalist research-grade observations,iNaturalist
+1453091380,-122.298346,48.714581,2016.0,6.0,HUMAN_OBSERVATION,175.0,iNaturalist research-grade observations,iNaturalist
+1802530795,-118.32,47.81,2016.0,10.0,PRESERVED_SPECIMEN,,,UWBM
+5196183624,-120.657315,47.762622,2015.0,1.0,PRESERVED_SPECIMEN,301.0,,CRCM
+2992732605,-123.596919,48.551856,2015.0,5.0,HUMAN_OBSERVATION,186.0,iNaturalist research-grade observations,iNaturalist
+1932361266,-120.340897,46.956659,2015.0,6.0,HUMAN_OBSERVATION,11653.0,iNaturalist research-grade observations,iNaturalist
+5196183603,-120.469802,47.522346,2014.0,12.0,PRESERVED_SPECIMEN,1876.0,,CRCM
+1702720722,-120.23,47.62,2013.0,1.0,PRESERVED_SPECIMEN,,,UWBM
+1702720737,-120.201177,47.37235,2013.0,6.0,PRESERVED_SPECIMEN,,,UWBM
+1702720712,-120.310349,47.42346,2013.0,9.0,PRESERVED_SPECIMEN,,,UWBM
+1702720425,-120.3056,47.6738,2012.0,8.0,PRESERVED_SPECIMEN,,,UWBM
+1702720255,-120.485,47.488,2010.0,2.0,PRESERVED_SPECIMEN,,,UWBM
+5217424389,-121.703466,48.334832,2010.0,11.0,HUMAN_OBSERVATION,180.0,iNaturalist research-grade observations,iNaturalist
+2244335723,-117.491129,45.928294,2009.0,3.0,HUMAN_OBSERVATION,2000.0,iNaturalist research-grade observations,iNaturalist
+1702719770,-120.239991,47.617351,2009.0,10.0,PRESERVED_SPECIMEN,,,UWBM
+1702719845,-121.7818,47.4127,2008.0,1.0,PRESERVED_SPECIMEN,,,UWBM
+1702719848,-121.9409,47.7385,2008.0,3.0,PRESERVED_SPECIMEN,,,UWBM
+1880667903,-119.122268,48.785163,2007.0,9.0,HUMAN_OBSERVATION,179.0,iNaturalist research-grade observations,iNaturalist
+891167767,-121.404999,49.013221,2007.0,11.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+891167811,-121.400117,49.019343,2007.0,11.0,HUMAN_OBSERVATION,,iNaturalist research-grade observations,iNaturalist
+891169849,-121.400009,49.019637,2007.0,11.0,HUMAN_OBSERVATION,174.0,iNaturalist research-grade observations,iNaturalist
+1702718831,-120.921,47.105,2007.0,,PRESERVED_SPECIMEN,,,UWBM
+1702719734,-121.9387,47.3758,2006.0,1.0,PRESERVED_SPECIMEN,,,UWBM
+1702719790,-121.9613,47.4772,2006.0,1.0,PRESERVED_SPECIMEN,,,UWBM
+5196176212,-117.855154,48.399068,2005.0,10.0,PRESERVED_SPECIMEN,86140.0,,CRCM
+1702719777,-121.8553,47.3779,2005.0,12.0,PRESERVED_SPECIMEN,,,UWBM
+1702719786,-121.7798,47.4114,2005.0,12.0,PRESERVED_SPECIMEN,,,UWBM
+5196176199,-117.855154,48.399068,2004.0,10.0,PRESERVED_SPECIMEN,86140.0,,CRCM
+3347258976,-117.83,48.9,2003.0,3.0,PRESERVED_SPECIMEN,,,
+3990256384,-117.8,48.92,2003.0,10.0,PRESERVED_SPECIMEN,,,
+5196176195,-118.055822,48.610735,2003.0,10.0,PRESERVED_SPECIMEN,1518.0,,CRCM
+5196254269,-121.801607,48.482076,1993.0,5.0,PRESERVED_SPECIMEN,92119.0,,CRCM
+5196254270,-121.801607,48.482076,1992.0,2.0,PRESERVED_SPECIMEN,92119.0,,CRCM
+1702678037,-123.4553,48.1048,1991.0,9.0,PRESERVED_SPECIMEN,1139.0,,UWBM
+1702678038,-123.5842,48.0619,1991.0,9.0,PRESERVED_SPECIMEN,1139.0,,UWBM
+1702678029,-123.5842,48.0905,1991.0,10.0,PRESERVED_SPECIMEN,1139.0,,UWBM
+686472152,-118.3193012,45.8584636,1991.0,12.0,PRESERVED_SPECIMEN,0.71,University of Kansas Biodiversity Institute Mammalogy Collection,KU
+812666588,-119.7545019,48.5550222,1990.0,2.0,PRESERVED_SPECIMEN,817.0,,PSM
+812666589,-119.7545019,48.5550222,1990.0,2.0,PRESERVED_SPECIMEN,817.0,,PSM
+812666590,-119.7545019,48.5550222,1990.0,2.0,PRESERVED_SPECIMEN,817.0,,PSM
+812666591,-119.7545019,48.5550222,1990.0,2.0,PRESERVED_SPECIMEN,817.0,,PSM
+3329069816,-123.5493,48.48371,1989.0,5.0,PRESERVED_SPECIMEN,1000.0,UVICZL Mammals,UVIC
+1702673611,-121.8998,47.337,1986.0,5.0,PRESERVED_SPECIMEN,1300.0,,UWBM
+1702673303,-122.1932,47.52371,1985.0,10.0,PRESERVED_SPECIMEN,13.0,,UWBM
+812665155,-122.122,46.7578,1983.0,1.0,PRESERVED_SPECIMEN,2266.0,,PSM
+812664915,-121.991203,47.2041638,1982.0,8.0,PRESERVED_SPECIMEN,5483.0,,PSM
+812664910,-118.2025258,48.8658664,1982.0,10.0,PRESERVED_SPECIMEN,979.0,,PSM
+812664916,-121.991203,47.2041638,1982.0,10.0,PRESERVED_SPECIMEN,5483.0,,PSM
+1702689137,-117.7144,45.5225,1982.0,12.0,PRESERVED_SPECIMEN,1152.0,,UWBM
+1702671186,-123.0067,47.9031,1981.0,2.0,PRESERVED_SPECIMEN,1944.0,,UWBM
+812664917,-120.1925595,47.870569,1981.0,3.0,PRESERVED_SPECIMEN,36537.0,,PSM
+812664911,-118.6719237,46.0397595,1981.0,10.0,PRESERVED_SPECIMEN,3392.0,,PSM
+1702689172,-121.8242,47.5289,1979.0,6.0,PRESERVED_SPECIMEN,7094.0,,UWBM
+812664919,-121.3998935,47.3921909,1978.0,8.0,PRESERVED_SPECIMEN,656.0,,PSM
+812664909,-118.2025258,48.8658664,1978.0,10.0,PRESERVED_SPECIMEN,979.0,,PSM
+812664918,-120.5512,47.6509,1978.0,11.0,PRESERVED_SPECIMEN,1139.0,,PSM
+812662208,-117.3296719,45.6830731,1978.0,12.0,PRESERVED_SPECIMEN,656.0,,PSM
+812661482,-118.4357991,45.5702643,1977.0,10.0,PRESERVED_SPECIMEN,16783.0,,PSM
+1702673294,-122.350877,47.668428,1976.0,12.0,PRESERVED_SPECIMEN,357.0,,UWBM
+1702673304,-122.350877,47.668428,1976.0,12.0,PRESERVED_SPECIMEN,357.0,,UWBM
+1702671201,-122.295649,48.309899,1975.0,11.0,PRESERVED_SPECIMEN,3764.0,,UWBM
+5196256453,-117.855154,48.399068,1972.0,,PRESERVED_SPECIMEN,86140.0,,CRCM
+812651266,-124.1562739,47.9166404,1970.0,9.0,PRESERVED_SPECIMEN,3714.0,,PSM
+812651288,-121.399,47.3925,1968.0,6.0,PRESERVED_SPECIMEN,656.0,,PSM
+5196269295,-117.372467,48.863809,1955.0,2.0,PRESERVED_SPECIMEN,783.0,,CRCM
+5196256460,-117.372467,48.863809,1955.0,3.0,PRESERVED_SPECIMEN,783.0,,CRCM
+812640764,-121.6923042,47.1538969,1954.0,3.0,PRESERVED_SPECIMEN,2265.0,,PSM
+5196254291,-118.200911,48.823584,1954.0,12.0,PRESERVED_SPECIMEN,301.0,,CRCM
+812641006,-122.0306349,46.7583352,1953.0,2.0,PRESERVED_SPECIMEN,978.0,,PSM
+1702666044,-122.350877,47.668428,1953.0,6.0,PRESERVED_SPECIMEN,357.0,,UWBM
+812639536,-124.6360102,48.0958051,1952.0,5.0,PRESERVED_SPECIMEN,6610.0,,PSM
+812638857,-124.36306,48.285,1951.0,9.0,PRESERVED_SPECIMEN,14494.0,,PSM
+812639716,-124.23673,47.88084,1950.0,5.0,PRESERVED_SPECIMEN,8541.0,,PSM
+812639717,-124.23673,47.88084,1950.0,5.0,PRESERVED_SPECIMEN,8541.0,,PSM
+812637776,-117.6375989,48.2626707,1948.0,2.0,PRESERVED_SPECIMEN,4481.0,,PSM
+5196254264,-117.50826,48.198302,1948.0,8.0,PRESERVED_SPECIMEN,301.0,,CRCM
+5196270311,-117.50826,48.198302,1948.0,8.0,PRESERVED_SPECIMEN,301.0,,CRCM
+5196270855,-117.50826,48.198302,1948.0,8.0,PRESERVED_SPECIMEN,301.0,,CRCM
+812638184,-124.2790605,48.0699788,1948.0,9.0,PRESERVED_SPECIMEN,978.0,,PSM
+812638223,-124.3657202,47.9574781,1948.0,,PRESERVED_SPECIMEN,3553.0,,PSM
+1702689197,-120.1211,48.3636,1946.0,,PRESERVED_SPECIMEN,1622.0,,UWBM
+5196270814,-122.3667,48.3833,1942.0,1.0,PRESERVED_SPECIMEN,301.0,,CRCM
+5196269278,-118.200911,48.823584,1942.0,2.0,PRESERVED_SPECIMEN,301.0,,CRCM
+1291995486,-123.70796,48.778708,1942.0,4.0,PRESERVED_SPECIMEN,,Cowan Tetrapod Collection - Mammals,BBM
+1291995547,-124.266279,48.873687,1939.0,,PRESERVED_SPECIMEN,,Cowan Tetrapod Collection - Mammals,BBM
+1702666491,-122.0444,47.1056,1937.0,5.0,PRESERVED_SPECIMEN,1300.0,,UWBM
+5196254272,-123.934298,48.110434,1934.0,1.0,PRESERVED_SPECIMEN,91510.0,,CRCM
+1702706805,-123.1006,48.0797,1923.0,3.0,PRESERVED_SPECIMEN,2266.0,,UWBM
+1702706850,-123.1006,48.0797,1923.0,3.0,PRESERVED_SPECIMEN,2266.0,,UWBM
+665914733,-124.086403,47.816299,1922.0,5.0,PRESERVED_SPECIMEN,0.71,,FMNH
+665914734,-124.086403,47.816299,1922.0,5.0,PRESERVED_SPECIMEN,0.71,,FMNH
+177129943,-124.266667,48.25,1920.0,3.0,PRESERVED_SPECIMEN,,,UCLA
+6875098310,-123.47,47.82,1917.0,2.0,PRESERVED_SPECIMEN,,,
+1702703748,-124.04793,47.80817,1916.0,10.0,PRESERVED_SPECIMEN,29947.0,,UWBM
+1702696126,-124.0864,47.8163,1914.0,,PRESERVED_SPECIMEN,1139.0,,UWBM
+1065392264,-123.67,47.87,1912.0,11.0,PRESERVED_SPECIMEN,1783.0,LACM Vertebrates,LACM
+3020142972,-122.682766,46.187649,1901.0,,PRESERVED_SPECIMEN,46928.0,,NYSM
+476822795,-122.44429,47.25288,,,PRESERVED_SPECIMEN,11450.0,,MCZ
+665783855,-118.8686964,48.1996337,,,PRESERVED_SPECIMEN,2.11,,FMNH
+1698126286,-118.5,47.0,,,MATERIAL_CITATION,,Delight,PBDB
+2005723755,-122.034706,49.023421,,,PRESERVED_SPECIMEN,2050.0,,CHAS
+2005723806,-122.034706,49.023421,,,PRESERVED_SPECIMEN,2050.0,,CHAS
+3356330160,-120.834148,47.278351,,,PRESERVED_SPECIMEN,345706.0,,BYU
+4054655327,-123.101676,48.079298,,,PRESERVED_SPECIMEN,,,CAS
+4054655329,-123.101676,48.079298,,,PRESERVED_SPECIMEN,,,CAS
+4054655569,-118.445071,49.029777,,,PRESERVED_SPECIMEN,,,CAS
+4054655607,-123.101676,48.079298,,,PRESERVED_SPECIMEN,,,CAS

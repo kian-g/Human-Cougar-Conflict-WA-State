@@ -1,4 +1,4 @@
-# Human-cougar conflict in Washington State.
+# Human-cougar conflict in Washington State
 
 ## Setup
 
